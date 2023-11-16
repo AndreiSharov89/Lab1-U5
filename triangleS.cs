@@ -1,5 +1,4 @@
 ﻿// Sharov Andrei group 124/11
-//Console.WriteLine("Hello, World!");
 using System;
 using System.Data;
 using System.Drawing;
